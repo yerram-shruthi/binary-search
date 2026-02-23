@@ -1,5 +1,5 @@
 nums = list(map(int, input("Enter sorted numbers: ").split()))
-target = int(input("Enter target: "))
+target = int(input("Enter the  target: "))
 
 left = 0
 right = len(nums) - 1
