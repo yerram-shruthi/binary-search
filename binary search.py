@@ -1,4 +1,4 @@
-nums = list(map(int, input("Enter sorted numbers: ").split()))
+nums = list(map(int, input("Enter  the sorted numbers: ").split()))
 target = int(input("Enter the  target: "))
 
 left = 0
